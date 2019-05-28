@@ -2,5 +2,6 @@
 target
 .settings
 .idea
+out
 ##file
 .classpath
