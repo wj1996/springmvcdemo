@@ -37,6 +37,13 @@
             <artifactId>jsp-api</artifactId>
             <version>2.0</version>
         </dependency>
+        <!--支持springmvc转换json-->
+        <dependency>
+            <!--依赖这个就可以把剩下的两个依赖-->
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.9.6</version>
+        </dependency>
     </dependencies>
 
 </project>
