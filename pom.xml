@@ -42,7 +42,7 @@
             <!--依赖这个就可以把剩下的两个依赖-->
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>2.9.6</version>
+            <version>2.9.10.7</version>
         </dependency>
     </dependencies>
 
